@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from socket import AF_INET, SOCK_STREAM, socket
 from threading import Thread
 
